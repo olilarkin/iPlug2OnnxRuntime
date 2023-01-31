@@ -1,0 +1,6 @@
+[submodule "iPlug2"]
+	path = iPlug2
+	url = https://github.com/iPlug2/iPlug2.git
+[submodule "ort-builder"]
+	path = ort-builder
+	url = git@github.com:olilarkin/ort-builder.git
