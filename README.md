@@ -1,4 +1,4 @@
-# iPlug2OnnxRuntime readme
+# iPlug2OnnxRuntime
 
 Machine Learning Audio plug-in example using [iPlug2](https://github.com/iPlug2/iPlug2) and [Microsoft ONNX Runtime](https://github.com/microsoft/onnxruntime).
 
