@@ -30,7 +30,7 @@ public:
     try {
       mSession = std::make_unique<Ort::Session>(mEnv, (void*) model_ort_start, model_ort_size, sessionOptions);
     } catch (std::exception& e) {
-      DBGMSG("Exception: %s\n", e.what());
+      printf("Exception: %s\n", e.what());
     }
 
     assert(mSession);
